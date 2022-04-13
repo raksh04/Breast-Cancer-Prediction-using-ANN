@@ -5,6 +5,7 @@
 ## Project Outline
 * Performed Data Cleaning and Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set.
 * Built a n-layer Artificial Neural Network with 1.00 accuracy to predict the type of tumor.
-* Created functions for forward propagation and backward propagation, relu and sigmoid activation functions were used for hidden layer and output layer respectively.
+* Created functions for forward propagation, backward propagation, updating parameters and prediction.
+* Relu and sigmoid activation functions were used for hidden layer and output layer respectively.
 
 
